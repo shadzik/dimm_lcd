@@ -1,15 +1,15 @@
-/* Dimm_lcd by Bartosz ¦wi±tek aka shadzik (shadzik@atwa.us)
+/* Dimm_lcd by Bartosz ÅšwiÄ…tek aka shadzik (shadzik@atwa.us)
  * Let's you easily dimm your LCD on Toshiba notebooks
  * ADVICE: use with FnFx as Fn-F2 key shortcut
- * version: 0.4, 2005.12.06
+ * version: 0.4, 20051206
  * Thanks to kflis
  *
  * g++ -O3 -o dimm_lcd dimm_lcd2.cpp
  *
  * ChangeLog:
- * version 0.4 2005.12.06:
+ * version 0.4 20051206:
  * - added cpufreq();
- * version 0.3 2005.06.21:
+ * version 0.3 20050621:
  * - ios::app -> ios::out
  * version 0.2:
  * - added smooth-like effect
